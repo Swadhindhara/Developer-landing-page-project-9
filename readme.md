@@ -1,8 +1,8 @@
-# Crypto Home Page
+# Developer Landing Page
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link](https://web-design-landing-liveproject-8.netlify.app/)
+> ### **Live deployed website link** --> [Netlify link](https://inquisitive-raindrop-10819b.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,16 +12,11 @@
 </span>
 
 ## How website looks like
-<img src ="https://github.com/Swadhindhara/web_design_lamdimg_page_project--8/blob/main/Final%20output.png"/>
-
-## What I have learned in this project?
-- I have learned about background image positioning
-- I have learned about button styling
-- I have learned about z-index
-- Learnt transitioning properties and animation
+<img src ="https://github.com/Swadhindhara/Developer-landing-page-project-9/blob/main/9.png/>
 
 
-## This project took around 2.5 hours to complete .
+
+## This project took around 8 hours to complete .
 
 ## Connect Me
 
